@@ -6,10 +6,10 @@ entries:
     created: "2021-09-30T16:42:12.728470191+01:00"
     dependencies:
     - name: pages-api
-      repository: http://localhost:8080
+      repository: https://wgkeating.github.io/
       version: 1.x.x
     - name: mysql
-      repository: http://localhost:8080
+      repository: https://wgkeating.github.io/
       version: 1.x.x
     description: A Helm chart for Pages Application
     digest: 4fbd5c32f41a82f15a37c4ad2c2a3d9422b78adc6b1c318ba4f67f4e4f33cfae
